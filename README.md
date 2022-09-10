@@ -1,2 +1,2 @@
 # CBSea-Docu
-Documentation of CBSea contributions
+Cool pics of CBSea contributions
